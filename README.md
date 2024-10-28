@@ -1,1 +1,1 @@
-# wan
+# how to architect structure
