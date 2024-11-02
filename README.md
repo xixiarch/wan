@@ -4,4 +4,4 @@
 Oct 30
 Halloween 
 
-Nov
+Nov 2
