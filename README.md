@@ -2,5 +2,4 @@
 
 ##
 Oct 30
-Halloween 
-
+Halloween
